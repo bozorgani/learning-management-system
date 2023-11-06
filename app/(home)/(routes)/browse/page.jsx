@@ -1,7 +1,8 @@
+import CategoryFilter from "../../_components/CategoryFilter"
 
 function Browse() {
   return (
-    <div>Browse</div>
+    <CategoryFilter />
   )
 }
 
